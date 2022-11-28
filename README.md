@@ -17,7 +17,7 @@
 
 - 👋 Find me on Medium **<a href="https://medium.com/@denisselandau97">@denilandau97</a>**
 
-- 📄 Know about my experiences [I just started on May 2022, I'm eager to learn more and more everyday. I'm specially interested in AI, machine learning, and anything truly regarding soft skills.](I just started on May 2022, I'm eager to learn more and more everyday. I'm specially interested in AI, machine learning, and anything truly regarding soft skills.)
+- 📄 Know about my experiences [](I just started on May 2022, I'm eager to learn more and more everyday. I'm specially interested in AI, machine learning, and anything truly regarding soft skills.)
 
 - ⚡ Fun fact **I'm a true book addict, I'm currently reading 4 books at a time.**
 
