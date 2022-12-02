@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **denisselandau97@gmail.com**
 
-- 👋 Find me on Medium **<a href="https://medium.com/@denisselandau97">@denilandau97</a>**
+- 👋 Find me on Medium **<a href="https://medium.com/@denisselandau97">@denisselandau97</a>**
 
 - 📄 Know about my experiences **I just started on May 2022, I'm eager to learn more and more everyday. I'm specially interested in AI, machine learning, and anything truly regarding soft skills.**
 
