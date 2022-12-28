@@ -3,23 +3,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pinkyweat" alt="pinkyweat" /></a> </p>
 
-- 🔭 I’m currently working on **Data Structures - Python**
+- 🔭 I’m currently learning: **Fundamentals - Java** && **AWS Practitioner**
 
-- 🌱 I’m currently learning **data structures - python**
+- 👯 I’m looking to collaborate on: **Basic Java projects**
 
-- 👯 I’m looking to collaborate on **Basic Java projects**
+- 🤝 I’m looking for help with **where to start regarding Java**
 
-- 🤝 I’m looking for help with **were to start on Java**
+- 💬 Ask me about **C, bash, python, MySQL, books**
 
-- 💬 Ask me about **C, bash, books**
+- 📫 How to reach me: **denisselandau97@gmail.com**
 
-- 📫 How to reach me **denisselandau97@gmail.com**
+- 👋 Find me on Medium: **<a href="https://medium.com/@denisselandau97">@denisselandau97</a>**
 
-- 👋 Find me on Medium **<a href="https://medium.com/@denisselandau97">@denisselandau97</a>**
+- 📄 Know about my experiences: **I just started on May 2022, I'm eager to learn more and more everyday. I'm specially interested in AI, machine learning, and anything truly regarding soft skills.**
 
-- 📄 Know about my experiences **I just started on May 2022, I'm eager to learn more and more everyday. I'm specially interested in AI, machine learning, and anything truly regarding soft skills.**
-
-- ⚡ Fun fact **I'm a true book addict, I'm currently reading 4 books at a time.**
+- ⚡ Fun fact: **I'm a true book addict, I'm currently reading 4 books at a time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
