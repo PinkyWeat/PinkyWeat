@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Denisse</h1>
 <h3 align="center">A crazy af proactive full stack developer in the journey to DevOps Engineer from Uruguay</h3>
-
+</br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pinkyweat" alt="pinkyweat" /></a> </p>
+</br>
 
 - 🔭 I’m currently working on [RubyKween](https://github.com/PinkyWeat/RubyKween)
 
