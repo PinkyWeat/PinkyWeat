@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Denisse</h1>
-<h3 align="center">A crazy af proactive full stack developer in the journey to DevOps Engineer from Uruguay</h3>
+<h3 align="center">A proactive af nerd-- at core full stack developer, curently flowing in my DevOps Engineer era, while specialazing in Machine Learning.</h3>
 </br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pinkyweat" alt="pinkyweat" /></a> </p>
 </br>
 
-- 🔭 I’m currently working on [RubyKween](https://github.com/PinkyWeat/RubyKween)
+- 🔭 I’m currently working on [Reinforcement Learning](https://github.com/PinkyWeat/holbertonschool-machine_learning/tree/master/reinforcement_learning)
 
-- 🌱 I’m currently learning **Ruby, Chef, Terraform, AWS, GCP**
+- 🌱 I’m currently loving **Ruby, Chef, Ansible, AWS, GCP, & more**
 
-- 👯 I’m looking to collaborate on **anything regarding Cloud**
+- 👯 I’m looking to collaborate on **anything regarding Cloud or machine learning**
 
-- 🤝 I’m looking for help with **anything I can add value to**
+- 🤝 I’m looking to help with **anything I can add value to**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PinkyWeat](https://github.com/PinkyWeat)
 
